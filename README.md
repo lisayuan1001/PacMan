@@ -1,4 +1,6 @@
 # PacMen
+## Title of project
+PacMen Exercise
 ## Description of project
 This is a course project that is intended to practice how to build a Document Object Model (DOM) and let JavaScript and HTML interact with the browser to make the web page functional.
 ## How to run
